@@ -1,3 +1,7 @@
+# Private Course Content
+/Machine_Learning_Bootcamp/Course
+/Machine_Learning_Bootcamp/Course_Data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
