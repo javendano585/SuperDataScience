@@ -4,3 +4,4 @@ packaging
 ipywidgets
 joblib
 scikit-learn
+pandas
