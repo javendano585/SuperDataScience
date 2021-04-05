@@ -2,3 +2,5 @@ voila
 pillow<7
 packaging
 ipywidgets
+joblib
+scikit-learn
